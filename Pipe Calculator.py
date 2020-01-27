@@ -1,12 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Oct  6 16:46:13 2016
 
-Group project #7
-Will, Bill, Kyle, Antoan
-
-@author: S01007893
-"""
 import math
 
 d = float(input("Please enter the diameter of your pipe: "))
